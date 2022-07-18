@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://example.com"
-title = "Workshop on Homogeneity"
+title = "Homogeneity & Non-Maximality Workshop"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -46,7 +46,7 @@ webmanifest = "/icons/site.webmanifest"
 
 # Social links
 [extra.social]
-email = "<email_id>"
+email = "hnm1.workshop@aol.com"
 
 
 
