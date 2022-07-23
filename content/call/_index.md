@@ -3,7 +3,8 @@ title = "Call for Abstracts"
 +++
 
 ## Abstract requirements
-
+  
+  - The abstrast is for a 30 minutes presentation.
   - The main text of the abstract should be at most **3
 pages** (Times New Roman, 12pt, 2.5cm margin). 
   - References, figures and glossed examples may be added on additional pages exceeding the 3-page
