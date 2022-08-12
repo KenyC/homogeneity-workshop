@@ -8,7 +8,8 @@ This online workshop aims to gather semanticists and psycholinguists interested 
 For more information on submission, please confer to our [call for abstracts](/call).
 
 **Where:** online (Zoom)  
-**When:** November 18<sup>th</sup> -19<sup>th</sup>
+**When:** November 18<sup>th</sup> -19<sup>th</sup>  
+**Registration:** to be opened soon
 
 You can reach us at [hnm1.workshop@aol.com](mailto:hnm1.workshop@aol.com)
 
