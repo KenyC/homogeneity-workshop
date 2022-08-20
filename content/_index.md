@@ -9,13 +9,13 @@ For more information on submission, please confer to our [call for abstracts](/c
 
 **Where:** online (Zoom)  
 **When:** November 18<sup>th</sup> -19<sup>th</sup>  
-**Registration:** to be opened soon
+**Registration:** [here](https://forms.gle/c79hQZKzBc3Jmxru5)
 
 You can reach us at [hnm1.workshop@aol.com](mailto:hnm1.workshop@aol.com)
 
 **Organizing committee:** 
 
-  - Omar Agha      (New York University)
+  - Omar Agha      (Universtiy of Connecticut)
   - Keny Chatain   (Ecole Normale Supérieure / PSL)
   - Nina Haslinger (Georg-August-Universität Göttingen)
 
