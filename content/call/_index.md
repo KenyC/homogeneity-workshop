@@ -10,7 +10,8 @@ pages** (Times New Roman, 12pt, 2.5cm margin).
   - References, figures and glossed examples may be added on additional pages exceeding the 3-page
 limit. 
   - Abstracts should be anonymized and submitted in PDF format.
-  - **Deadline:** September 15 2022, 12:00pm noon Eastern Standard Time.
+  - <span class="strikeout">**Deadline:** September 15 2022, 12:00pm noon Eastern Standard Time.</span>  
+  **EXTENDED DEADLINE:** September 22 2022, 12:00pm noon Eastern Standard Time.
   - Any questions may be sent to [hnm1.workshop@aol.com](mailto:hnm1.workshop@aol.com)
   - Submit to [Easy Chair](https://easychair.org/my/conference?conf=hnm1)
 
