@@ -45,7 +45,7 @@ Download in [PDF](../schedule.pdf)
     <td class="talk">Omri Amiraz (Hebrew University of Jerusalem):<br><strong>Non-maximality and homogeneity in collective predicates and absolute adjectives</strong></td>
   </tr>
   <tr>
-    <td class="talk">Diego Feinmann (Universita Pompeu Fabra):<br><strong>Mind the gap: Absolute adjectives give rise to homogeneity effects</strong></td>
+    <td class="talk">Diego Feinmann (Pompeu Fabra University):<br><strong>Mind the gap: Absolute adjectives give rise to homogeneity effects</strong></td>
   </tr>
   <tr>
     <td class="hour">16:20-16:50 CET<br>10:20-10:50 EST</td>
@@ -57,7 +57,7 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour">17:30-18:10 CET<br>11:30-12:10 EST</td>
-    <td class="talk"><a href="../abstracts/NahrlichBernard_abstract.pdf">Flavia Nährlich and Angèle Bernard (Université de Nantes):<br><strong>Plural definites in positive and negative contexts: a cross-linguistic study on homogeneity effects in French and German</strong></a></td>
+    <td class="talk"><a href="../abstracts/NahrlichBernard_abstract.pdf">Flavia Nährlich (University of Groningen) and Angèle Bernard (University of Nantes):<br><strong>Plural definites in positive and negative contexts: a cross-linguistic study on homogeneity effects in French and German</strong></a></td>
   </tr>
   <tr>
     <td class="hour">18:10-18:40 CET<br>12:10-12:40 EST</td>
