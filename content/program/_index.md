@@ -45,7 +45,7 @@ Download in [PDF](../schedule.pdf)
     <td class="talk">Omri Amiraz (Hebrew University of Jerusalem):<br><strong>Non-maximality and homogeneity in collective predicates and absolute adjectives</strong></td>
   </tr>
   <tr>
-    <td class="talk">Diego Feinmann (Pompeu Fabra University):<br><strong>Mind the gap: Absolute adjectives give rise to homogeneity effects</strong></td>
+    <td class="talk">Diego Feinmann (École Normale Supérieure):<br><strong>Mind the gap: Absolute adjectives give rise to homogeneity effects</strong></td>
   </tr>
   <tr>
     <td class="hour">16:20-16:50 CET<br>10:20-10:50 EST</td>
