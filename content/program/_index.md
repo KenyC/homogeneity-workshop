@@ -53,19 +53,15 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour">16:50-17:30 CET<br>10:50-11:30 EST</td>
-    <td class="nontalk">Slot for panel discussion (more information TBA)</td>
+    <td class="nontalk">Panel discussion (more information TBA)</td>
   </tr>
   <tr>
-    <td class="hour">17:30-18:10 CET<br>11:30-12:10 EST</td>
-    <td class="talk">Flavia Nährlich (University of Groningen) and Angèle Bernard (Nantes Université):<br><strong>Plural definites in positive and negative contexts: a cross-linguistic study on homogeneity effects in French and German</strong></td>
-  </tr>
-  <tr>
-    <td class="hour">18:10-18:40 CET<br>12:10-12:40 EST</td>
+    <td class="hour">17:30-17:50 CET<br>11:30-11:50 EST</td>
     <td class="nontalk">Break</td>
   </tr>
   <tr>
-    <td class="hour" rowspan="2">18:40-20:00 CET<br>12:40-14:00 EST</td>
-    <td class="talk">Jéssica Mendes (University of Maryland):<br><strong>Habituality via pragmatic strengthening: new evidence from subtractives</strong></td>
+    <td class="hour" rowspan="2">17:50-19:10 CET<br>11:50-13:10 EST</td>
+    <td class="talk">Flavia Nährlich (University of Groningen) and Angèle Bernard (Nantes Université):<br><strong>Plural definites in positive and negative contexts: a cross-linguistic study on homogeneity effects in French and German</strong></td>
   </tr>
   <tr>
     <td class="talk"><a href="../abstracts/Chark_abstract.pdf">Jordan Chark (Leibniz-ZAS Berlin):<br><strong>Homogeneity removal as a local phenomenon</strong></a></td>
@@ -82,8 +78,10 @@ Download in [PDF](../schedule.pdf)
   <tr>
     <td class="hour" rowspan="2">15:20-16:40 CET<br>09:20-10:40 EST</td>
     <td class="talk">
+      <a href="../abstracts/MayrSudo_abstract.pdf">
       Clemens Mayr (University of Göttingen) and Yasutada Sudo (University College London):<br>
       <strong>Domain variables, homogeneity projection, and two notions of entailment</strong>
+      </a>
     </td>
   </tr>
   <tr>
