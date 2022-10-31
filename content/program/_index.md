@@ -42,7 +42,7 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour" rowspan="2">15:00 - 16:20 CET<br>09:00 - 10:20 EST</td>
-    <td class="talk">Omri Amiraz (Hebrew University of Jerusalem):<br><strong>Non-maximality and homogeneity in collective predicates and absolute adjectives</strong></td>
+    <td class="talk"><a href="../abstracts/Amiraz_abstract.pdf">Omri Amiraz (Hebrew University of Jerusalem):<br><strong>Non-maximality and homogeneity in collective predicates and absolute adjectives</strong></a></td>
   </tr>
   <tr>
     <td class="talk">Diego Feinmann (École Normale Supérieure):<br><strong>Mind the gap: Absolute adjectives give rise to homogeneity effects</strong></td>
