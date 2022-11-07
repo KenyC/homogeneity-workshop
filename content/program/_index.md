@@ -53,7 +53,7 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour">16:50-17:30 CET<br>10:50-11:30 EST</td>
-    <td class="nontalk">Panel discussion (more information TBA)</td>
+    <td class="nontalk">Panel on homogeneity projection and relation to other gappy phenomena</td>
   </tr>
   <tr>
     <td class="hour">17:30-17:50 CET<br>11:30-11:50 EST</td>
@@ -86,7 +86,9 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="talk">
+      <a href="../abstracts/Wehbe_abstract.pdf">
       Jad Wehbe (MIT):<br><strong> Revisiting presuppositional accounts of homogeneity </strong>
+      </a>
     </td>
   </tr>
     <tr>
@@ -95,7 +97,7 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour">17:10-17:50 CET<br>11:10-11:50 EST</td>
-    <td class="nontalk">Slot for panel discussion (more information TBA)</td>
+    <td class="nontalk">Panel on homogeneity and vagueness</td>
   </tr>
   <tr>
     <td class="hour">17:50-18:10 CET<br>11:50-12:10 EST</td>
