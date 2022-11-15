@@ -53,7 +53,10 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour">16:50-17:30 CET<br>10:50-11:30 EST</td>
-    <td class="nontalk">Panel on homogeneity and vagueness</td>
+    <td class="nontalk">
+    Panel on homogeneity and vagueness<br>
+    Panelists: Diego Feinmann (ENS/PSL), Benjamin Spector (ENS/PSL), Nina Haslinger (Göttingen University)
+    </td>
   </tr>
   <tr>
     <td class="hour">17:30-17:50 CET<br>11:30-11:50 EST</td>
@@ -97,7 +100,10 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour">17:10-17:50 CET<br>11:10-11:50 EST</td>
-    <td class="nontalk">Panel on homogeneity projection and relation to other gappy phenomena</td>
+    <td class="nontalk">
+    Panel on homogeneity projection and relation to other gappy phenomena<br>
+    Panelists: Paloma Jeretic (ZAS), Yasutada Sudo (UCL), Jad Wehbe (MIT)
+    </td>
   </tr>
   <tr>
     <td class="hour">17:50-18:10 CET<br>11:50-12:10 EST</td>
