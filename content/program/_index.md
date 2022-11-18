@@ -64,7 +64,7 @@ Download in [PDF](../schedule.pdf)
   </tr>
   <tr>
     <td class="hour" rowspan="2">17:50-19:10 CET<br>11:50-13:10 EST</td>
-    <td class="talk">Flavia Nährlich (University of Groningen) and Angèle Bernard (Nantes Université):<br><strong>Plural definites in positive and negative contexts: a cross-linguistic study on homogeneity effects in French and German</strong></td>
+    <td class="talk">Flavia Nährlich (University of Groningen) and Angèle Bernard (Nantes Université):<br><strong>Plural definites in positive and negative contexts: two studies on homogeneity and non-maximality in French and German</strong></td>
   </tr>
   <tr>
     <td class="talk"><a href="../abstracts/Chark_abstract.pdf">Jordan Chark (Leibniz-ZAS Berlin):<br><strong>Homogeneity removal as a local phenomenon</strong></a></td>
